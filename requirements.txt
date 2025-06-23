@@ -1,4 +1,8 @@
 streamlit
+<<<<<<< HEAD
 pandas
 boto3
 python-dotenv
+=======
+
+>>>>>>> fce0ea923128059c500acc0c0c09675ad96a041a
